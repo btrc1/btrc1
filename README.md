@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
-### 👩‍💻 Sobre mí
+👩‍💻 Sobre mí
 Soy una apasionada de la tecnología y la administración de sistemas. Actualmente estoy formándome para gestionar infraestructuras, redes y servidores de forma eficiente y segura. Me encanta automatizar tareas y aprender sobre ciberseguridad.
-### 🔭 Actualmente trabajando en 
+<br>🔭 Actualmente trabajando en 
 Despliegue de servicios en Linux y Windows Server.
-### 🌱 Aprendiendo 
+<br>🌱 Aprendiendo 
 Dockerización y Scripting avanzado.
 
 ---
