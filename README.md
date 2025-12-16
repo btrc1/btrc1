@@ -27,9 +27,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=btrc1&show_icons=true&theme=dark&locale=en" alt="btrc1" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=btrc1&theme=dark" alt="btrc1" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/be4tric3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
@@ -38,7 +35,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btrc1&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 ------
-
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 [btrc1](https://github.com/btrc1)
 
