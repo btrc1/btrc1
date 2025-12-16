@@ -7,15 +7,15 @@
 
 
 👩‍💻 Sobre mí
-Soy una apasionada de la tecnología y la administración de sistemas. Actualmente estoy formándome para gestionar infraestructuras, redes y servidores de forma eficiente y segura. Me encanta automatizar tareas y aprender sobre ciberseguridad.
+<br>Soy una apasionada de la tecnología y la administración de sistemas. Actualmente estoy formándome para gestionar infraestructuras, redes y servidores de forma eficiente y segura. Me encanta automatizar tareas y aprender sobre ciberseguridad.
 
 ---
 🔭 Actualmente trabajando en 
-Despliegue de servicios en Linux y Windows Server.
+<br>Despliegue de servicios en Linux y Windows Server.
 
 ---
 🌱 Aprendiendo 
-Dockerización y Scripting avanzado.
+<br>Dockerización y Scripting avanzado.
 
 ---
 
