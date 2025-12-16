@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **Systems Administration**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
 
 
 <br>
@@ -29,7 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://instagram.com/be4tric3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rivbeatrice13@gmail.com)
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btrc1&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
